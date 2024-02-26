@@ -13,8 +13,8 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Create a New Branch                         | https://github.com/cloperrot/ppchem/tree/new-branch-name       |
 | 1    | Create a conda environment                  | https://github.com/cloperrot/ppchem/blob/main/env.yml   |
 | 1    | Fork a Repo                                 | https://github.com/cloperrot/practical-programming-in-chemistry-milestones |
-| 1    | (Optional) Make a Pull Request              | https://github.com/cloperrot/ppchem/pull/1/commits/8b705d34a0028d3ce27ef73ffe4dc50433c2828c|
-| 2    | (Optional) Review a Pull Request            | https://github.com/cloperrot/ppchem/pull/1|
+| 1    | (Optional) Make a Pull Request              | https://github.com/cloperrot/ppchem/pull/1/commits/8b705d34a0028d3ce27ef73ffe4dc50433c2828c |
+| 2    | (Optional) Review a Pull Request            | https://github.com/cloperrot/ppchem/pull/1  |
 
 **More milestones will be added throughout the course.**
 
