@@ -15,7 +15,7 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Fork a Repo                                 | https://github.com/cloperrot/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | https://github.com/cloperrot/ppchem/pull/1/commits/8b705d34a0028d3ce27ef73ffe4dc50433c2828c |
 | 2    | (Optional) Review a Pull Request            | https://github.com/cloperrot/ppchem/pull/1  |
-| 4    | Update `env.yml` via a Pull Request  |https://github.com/cloperrot/ppchem/pull/2/commits/84329af82b5265fbe03c3c91674f8b46911cca43 |
+| 4    | Update `env.yml` via a Pull Request  |https://github.com/cloperrot/ppchem/pull/2 |
 
 **More milestones will be added throughout the course.**
 
